@@ -1,5 +1,5 @@
 ## 适配大屏原理和方法
-###原理 
+### 原理
 修改设备屏幕密度，实现大屏适配。
 ### 方法
 1. 重写Activity方法 `getResources()`
@@ -52,4 +52,4 @@
     }
 ```
     
-具体可参考工程 match-big-screen
+具体可参考工程 match-big-screen-project
